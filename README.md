@@ -1,2 +1,2 @@
 # mrseitan
-Api Backend Mr. Seitan.
+Proyecto Mr. Seitan.
